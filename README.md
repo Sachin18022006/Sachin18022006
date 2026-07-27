@@ -16,3 +16,19 @@ Building full-stack web applications and exploring data science projects to appl
 [![](https://komarev.com/ghpvc/?username=Sachin18022006&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sachin18022006/Sachin18022006/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sachin18022006/Sachin18022006/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sachin18022006/Sachin18022006/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+<!---LeetCode Topics End-->
