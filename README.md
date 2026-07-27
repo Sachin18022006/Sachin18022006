@@ -22,6 +22,7 @@ Building full-stack web applications and exploring data science projects to appl
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sachin18022006/Sachin18022006/tree/master/0001-two-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sachin18022006/Sachin18022006/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
@@ -31,4 +32,8 @@ Building full-stack web applications and exploring data science projects to appl
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sachin18022006/Sachin18022006/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sachin18022006/Sachin18022006/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
