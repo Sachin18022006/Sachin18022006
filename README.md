@@ -50,5 +50,14 @@ Building full-stack web applications and exploring data science projects to appl
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sachin18022006/Sachin18022006/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Sachin18022006/Sachin18022006/tree/master/0013-roman-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sachin18022006/Sachin18022006/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sachin18022006/Sachin18022006/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
