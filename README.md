@@ -55,6 +55,7 @@ Building full-stack web applications and exploring data science projects to appl
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sachin18022006/Sachin18022006/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Sachin18022006/Sachin18022006/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Sachin18022006/Sachin18022006/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
