@@ -44,6 +44,7 @@ Building full-stack web applications and exploring data science projects to appl
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sachin18022006/Sachin18022006/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sachin18022006/Sachin18022006/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Sachin18022006/Sachin18022006/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Sachin18022006/Sachin18022006/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sachin18022006/Sachin18022006/tree/master/0014-longest-common-prefix) |
 ## Trie
